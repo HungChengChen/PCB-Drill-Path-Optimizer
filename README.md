@@ -21,7 +21,7 @@
 
 ```bash
 python main.py example_file.txt
-
+\```
 ## 5. 作者與聯絡方式
 
 - 作者：[陳宏誠]
