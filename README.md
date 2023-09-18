@@ -19,7 +19,7 @@
 
 ## 4. 使用範例
 
-```bash
+\```bash
 python main.py example_file.txt
 \```
 ## 5. 作者與聯絡方式
