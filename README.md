@@ -1,6 +1,6 @@
 # PCB-Drill-Path-Optimizer 
 
-![PCB Image](https://www.bing.com/images/create/a-greedy-traveling-salesman-in-pixel-art-style/65090585f9fd466d9127b223eb91e604?id=m1Sk5RL%2f%2frfYT%2bkRUVO2tg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
+![PCB Image](OIG.jpg)
 
 本專案針對大型的 PCB 版面設計，採用結合 `greedy` 和 `2-opt` 的策略，專門優化上萬座標點的鐳射鑽孔路徑，並於實際應用到鐳射機台當中。
 
