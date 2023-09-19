@@ -35,5 +35,7 @@ python main.py
 
 基於保護公司機密，我們無法公開真實的PCB路徑。但為了展示本專案的效能，以下展示的是一組模擬資料，其規模與實際應用情境相似，包含了約1萬點的鑽孔路徑：
 ![路徑結果圖](./result/Figure_1.png)
-## 📞聯絡方式
+
+## 📞開發者聯絡方式
+- 開發者：hungcheng.chen
 - 電子郵件：hungcheng.chen@outlook.com
