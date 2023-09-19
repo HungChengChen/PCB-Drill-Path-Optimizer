@@ -17,7 +17,7 @@
 - **智能2-opt選擇**：優先選擇能大幅改善路徑長度的線段進行2-opt操作，進一步加速算法的收斂過程。
 
 
-## 🚀 使用方法
+## 📥 安裝與使用
 1. **安裝依賴**:
 ```bash
 pip install numpy pandas scipy matplotlib tqdm icecream
@@ -36,6 +36,6 @@ python main.py
 基於保護公司機密，我們無法公開真實的PCB路徑。但為了展示本專案的效能，以下展示的是一組模擬資料，其規模與實際應用情境相似，包含了約1萬點的鑽孔路徑：
 ![路徑結果圖](./result/Figure_1.png)
 
-## 📞開發者聯絡方式
+## 👤開發者聯絡方式
 - 開發者：hungcheng.chen
-- 電子郵件：hungcheng.chen@outlook.com
+- 電子郵件：[hungcheng.chen@outlook.com](mailto:hungcheng.chen@outlook.com)
