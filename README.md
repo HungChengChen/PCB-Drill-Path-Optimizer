@@ -19,18 +19,18 @@
 
 ## 🚀 使用方法
 1. **安裝依賴**:
-\```bash
+```bash
 pip install numpy pandas scipy matplotlib tqdm icecream
-\```
+```
 2. 運行主程式：
-\```bash
+```bash
 python main.py
-\```
+```
 ## 📖 使用範例(使用coords_df.csv當作範例)
 
-\```bash
+```bash
 python main.py
-\```
+```
 ## 🖼️ 優化結果展示
 
 基於保護公司機密，我們無法公開真實的PCB路徑。但為了展示本專案的效能，以下展示的是一組模擬資料，其規模與實際應用情境相似，包含了約1萬點的鑽孔路徑：
