@@ -4,7 +4,7 @@
     <img src="OIG.jpg" alt="PCB Image" width="200"/>
 </div>
 
-本專案針對大型的 PCB 版面設計，採用結合 `greedy` 和 `2-opt` 的策略，專門優化上萬座標點的鐳射鑽孔路徑，並於實際應用到鐳射機台當中。
+`PCB-Drill-Path-Optimizer`對大型的 PCB 版面設計，採用結合 `greedy` 和 `2-opt` 的策略，專門優化上萬座標點的鐳射鑽孔路徑，並於實際應用到鐳射機台當中。
 
 ## 🌟 項目背景
 
